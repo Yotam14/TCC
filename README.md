@@ -8,3 +8,6 @@ The website leverages various technologies and programming languages to ensure i
 To provide an independent window for viewing the website, ngrok, a hosting tool, generates a public URL for the local server, enabling external access to the platform. Furthermore, the website connects to the Firebase Realtime Database for efficient data storage and management, facilitating user profiles, game statistics, and leaderboard updates. Additionally, external files from Google Drive, which comprise HTML, CSS, and JavaScript components, are imported to support the overall design and logic of the website.
 
 In summary, the cloud computing learning website combines the power of playful learning, interactive trivia games, and user-friendly navigation to make cloud computing education accessible and enjoyable to a diverse audience. With a thoughtful selection of technologies and programming languages, the website ensures seamless operation and efficient data management, promising a rewarding and enriching learning experience for users interested in exploring the world of cloud computing.
+
+#Here is some videos about the app:
+The Home Screen: https://clipchamp.com/watch/hsYsm2aTNmj
