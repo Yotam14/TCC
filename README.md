@@ -10,4 +10,7 @@ To provide an independent window for viewing the website, ngrok, a hosting tool,
 In summary, the cloud computing learning website combines the power of playful learning, interactive trivia games, and user-friendly navigation to make cloud computing education accessible and enjoyable to a diverse audience. With a thoughtful selection of technologies and programming languages, the website ensures seamless operation and efficient data management, promising a rewarding and enriching learning experience for users interested in exploring the world of cloud computing.
 
 #Here is some videos about the app:
-The Home Screen: https://clipchamp.com/watch/hsYsm2aTNmj
+The Home Screen: 
+
+https://github.com/Yotam14/TCC/assets/120781381/49e8cec0-a659-4b4a-8b63-338ff0b60813
+
