@@ -13,7 +13,7 @@ In summary, the cloud computing learning website combines the power of playful l
 
 The Home Screen: 
 
-![HomePage - Copy](https://github.com/Yotam14/TCC/gif/HomePage-Copy)
+![HomePage - Copy](https://github.com/Yotam14/TCC/gif/HomePage - Copy.gif)
 
 Login Screen:
 
