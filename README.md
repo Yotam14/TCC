@@ -13,7 +13,7 @@ In summary, the cloud computing learning website combines the power of playful l
 
 The Home Screen: 
 
-![HomePage - Made with Clipchamp](https://github.com/Yotam14/TCC/assets/120781381/c05b7868-9698-49f9-a23e-ae73360315f1)
+![HomePage - Copy](https://github.com/Yotam14/TCC/gif/HomePage-Copy)
 
 Login Screen:
 
