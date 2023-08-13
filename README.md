@@ -21,5 +21,6 @@ Admin Screen:
 
 Trivia Game Screen:
 
-![TriviaHighScore](https://github.com/Yotam14/TCC/gif/TriviaHighScore.gif)
+![](https://github.com/Yotam14/TCC/gif/TriviaHighScore.gif)
+<img src=https://github.com/Yotam14/TCC/gif/TriviaHighScore.gif alt="Databay showcase gif" title="Databay showcase gif"/>
 
