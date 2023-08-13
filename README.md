@@ -11,10 +11,6 @@ In summary, the cloud computing learning website combines the power of playful l
 
 # Here is some videos about the app:
 
-The Home Screen: 
-
-![HomePage - Copy](https://github.com/Yotam14/TCC/gif/HomePage-Copy.gif)
-
 Login Screen:
 
 ![Login](https://github.com/Yotam14/TCC/assets/120781381/de289edb-4e43-4250-afdc-162fe068b836)
@@ -23,5 +19,7 @@ Admin Screen:
 
 ![Admin](https://github.com/Yotam14/TCC/assets/120781381/9469dc60-53d6-4941-936c-35fb0ee74dcb)
 
+Trivia Game Screen:
 
+![TriviaHighScore](https://github.com/Yotam14/TCC/gif/TriviaHighScore.gif)
 
