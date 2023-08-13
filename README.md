@@ -21,5 +21,5 @@ Admin Screen:
 
 Trivia Game Screen:
 
-![](https://github.com/Yotam14/TCC/blob/096a240c7966587e649a27a4abf7cf6c6b5a7e81/gif/TriviaHighScore.gif)
+![TriviaHighScore](https://github.com/Yotam14/TCC/blob/096a240c7966587e649a27a4abf7cf6c6b5a7e81/gif/TriviaHighScore.gif)
 
